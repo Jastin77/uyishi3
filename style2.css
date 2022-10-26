@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(106, 30, 30);
+}
+.second_page{
+    color: yellow;
+    text-align: center;
+}
+.this_page{
+    text-align: end;
+    background-color: yellow;
+}
+.mark{
+    color: blue;
+}
